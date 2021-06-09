@@ -67,7 +67,7 @@ Adjust the arrow to make the local map matches the map loaded at first. Then it 
 ![fig2](https://github.com/AaronLiu666/Capstone/blob/main/screenshots/Screenshot%20from%202021-06-08%2019-14-59.png)
 
 
-Demo video: [here](www.bilibili.com)
+Demo video: [here](https://youtu.be/U8iTp9uf83E)
 
 
 # Code indicating position of points in test.py/test2.py
